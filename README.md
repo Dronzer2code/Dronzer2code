@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 3em; color: #00ffcc; text-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc;">💫 Suparna Maity</h1>
+  <h1 style="font-size: 3em; color: #00ffcc; text-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc;">💫 Subarna Maity</h1>
   <p style="font-size: 1.5em; color: #ffffff; text-shadow: 0 0 5px #ffffff;">Aspiring Engineering Student | Coding Enthusiast | Building the Future 🚀</p>
 </div>
 
