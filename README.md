@@ -1,42 +1,18 @@
 <div align="center">
-  <h1 style="font-size: 3em; color: #00ffcc; text-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc;">💫🗿 Subarna Maity</h1>
-  <p style="font-size: 1.5em; color: #ffffff; text-shadow: 0 0 5px #ffffff;">Aspiring Engineering Student | App Dev in Kotlin | Web Dev Explorer 🚀</p>
+  
+![Subarna's Banner](https://user-images.githubusercontent.com/80870870/234917106-7e268bab-be5e-4b66-b0f5-52ff7a43d12a.png)
+
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="400" style="border-radius: 15px; box-shadow: 0 0 15px #00ffcc;">
+  <strong><h2>🗿  𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 | 𝑲𝒐𝒕𝒍𝒊𝒏 𝑫𝒆𝒗 🚀</h2></strong>
 </div>
-
----
-
-## 🌟 About Me
-
-I'm an aspiring **App Developer** with a strong focus on building Android applications using **Kotlin** and **Jetpack Compose**. I enjoy creating clean, user-friendly mobile interfaces and writing maintainable, scalable code.
-
-I'm also exploring **web development** and love learning how frontend and backend technologies come together to build full-stack experiences. Whether it's crafting an intuitive UI or diving into API integration, I'm always excited to learn and build.
-
-🚀 Always learning. Always building.
-
 <div align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuR0KFsh2tW/giphy.gif" alt="Tech Vibes" width="200" style="margin: 10px;">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 </div>
+<br>
 
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="mailto:suparnamaity1985iii@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/subarna-maity">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-
----
-
-## 💻 Tech Stack
+# 💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 :
 
 <div align="center">
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
@@ -50,37 +26,34 @@ I'm also exploring **web development** and love learning how frontend and backen
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
 
----
-
-## 📊 GitHub Stats
-
+# 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 :
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dronzer2code&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dronzer2code&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Dronzer2code&theme=radical&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-trophies.vercel.app/?username=Dronzer2Code&theme=monokai&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </div>
 
----
-
-## ✍️ Random Dev Quote
-
+# 📈 𝗦𝘁𝗮𝘁𝘀 :
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+  <a href="https://github.com/Dronzer2Code">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Dronzer2Code?cardType=level&theme=monokai&preferLogin=false" alt="Subarna Stats">
+  </a>
 </div>
 
----
-
-## 🚀 My Projects
-
+# 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 :
 <div align="center">
-  <p>Check out some of my cool projects on <a href="https://github.com/Dronzer2code">GitHub</a>!</p>
-  <img src="https://media.giphy.com/media/3o7TKsQ8QrrjA6sQ48/giphy.gif" alt="Project GIF" width="300" style="border-radius: 10px;">
+  <a href="https://github.com/Dronzer2Code">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dronzer2Code&bg_color=2d2a2e&color=ffffff&line=f92672&point=fd971f&area=true&hide_border=false" alt="GitHub Activity">
+  </a>
 </div>
 
----
+# 🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀 :
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Dronzer2code&icon=0&color=0" alt="Visitor Count">
-</div>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/subarna_editzz)
+[<img src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange">](https://stackoverflow.com/users/16593472/tab=profile)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###  𝗦𝗵𝗼𝘄 𝘀𝗼𝗺𝗲 ❤️ 𝗯𝘆 𝘀𝘁𝗮𝗿𝗿𝗶𝗻𝗴 ⭐ 𝘀𝗼𝗺𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗿𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀!
+
+<img src="https://github.com/JSjulio/JSjulio/assets/116856413/13522243-2b31-40c7-a1f5-0b5967ba8ce0" >
+
+<!-- Proudly created with ❤ by Dronzer2Code -->
