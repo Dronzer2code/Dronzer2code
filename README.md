@@ -31,12 +31,15 @@
   <img src="https://github-trophies.vercel.app/?username=Dronzer2Code&theme=monokai&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </div>
 
-# 📈 𝗦𝘁𝗮𝘁𝘀 :
-<div align="center">
-  <a href="https://github.com/Dronzer2Code">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Dronzer2Code?cardType=level&theme=monokai&preferLogin=false" alt="Subarna Stats">
-  </a>
-</div>
+# 📈 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 :
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dronzer2code&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dronzer2code&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dronzer2code&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dronzer2code&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dronzer2code&theme=monokai&utcOffset=8" />
+</p>
 
 # 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 :
 <div align="center">
