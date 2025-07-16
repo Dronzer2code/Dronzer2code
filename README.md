@@ -12,6 +12,15 @@
 </div>
 <br>
 
+# 🌟 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
+
+I'm an aspiring *App Developer* with a strong focus on building Android applications using *Kotlin* and *Jetpack Compose*. I enjoy creating clean, user-friendly mobile interfaces and writing maintainable, scalable code.
+
+I'm also exploring *web development* and love learning how frontend and backend technologies come together to build full-stack experiences. Whether it's crafting an intuitive UI or diving into API integration, I'm always excited to learn and build.
+
+🚀 Always learning. Always building.
+
+
 # 💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 :
 
 <div align="center">
