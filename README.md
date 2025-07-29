@@ -37,7 +37,7 @@ I'm also exploring *web development* and love learning how frontend and backend 
 
 # 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 :
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Dronzer2Code&theme=monokai&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Dronzer2code)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 # 📈 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 :
