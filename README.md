@@ -20,6 +20,10 @@
 
  [![Screenshot-2025-11-23-221106.png](https://i.postimg.cc/NMhjPMVZ/Screenshot-2025-11-23-221106.png)](https://postimg.cc/1gHS89yK)
 
+<h3 align="center"><a href="https://github.com/Dronzer2code/solarXplorer" align="center">SolarXplorer</a></h3>
+
+
+
 <div align="center">
   <strong><h2>Hacktoberfest Super Contributor</h2></strong>
 </div>
