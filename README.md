@@ -12,6 +12,19 @@
 </div>
 <br>
 
+# 🏆 Achivements
+
+<div align="center">
+  <strong><h2>MLH Global Hackfest Winner</h2></strong>
+</div>
+
+ [![Screenshot-2025-11-23-221106.png](https://i.postimg.cc/NMhjPMVZ/Screenshot-2025-11-23-221106.png)](https://postimg.cc/1gHS89yK)
+
+<div align="center">
+  <strong><h2>Hacktoberfest Super Contributor</h2></strong>
+</div>
+
+[![An image of @dronzer2code's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dronzer2code)](https://holopin.io/@dronzer2code)
 # 🌟 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
 I'm an aspiring *App Developer* with a strong focus on building Android applications using *Kotlin* and *Jetpack Compose*. I enjoy creating clean, user-friendly mobile interfaces and writing maintainable, scalable code.
