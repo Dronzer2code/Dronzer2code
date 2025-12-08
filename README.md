@@ -34,6 +34,8 @@
 I'm an aspiring *App Developer* with a strong focus on building Android applications using *Kotlin* and *Jetpack Compose*. I enjoy creating clean, user-friendly mobile interfaces and writing maintainable, scalable code.
 
 I'm also exploring *web development* and love learning how frontend and backend technologies come together to build full-stack experiences. Whether it's crafting an intuitive UI or diving into API integration, I'm always excited to learn and build.
+## I'm very Enthusistic About OpenSourceing
+<a href="https://ibb.co/xqLZ5wjt"><img src="https://i.ibb.co/r209yq6R/swoc-ticket.jpg" alt="swoc-ticket" border="0"></a><a href="https://postimg.cc/xXTVnvRz" target="_blank"><img src="https://i.postimg.cc/xXTVnvRz/WOCS-badge.png" alt="WOCS-badge" border="0" width="200"></a><br><br>
 
 🚀 Always learning. Always building.
 
