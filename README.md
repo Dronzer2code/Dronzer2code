@@ -7,9 +7,9 @@
 <div align="center">
   <strong><h2>🗿  𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 | 𝑲𝒐𝒕𝒍𝒊𝒏 𝑫𝒆𝒗 🚀</h2></strong>
 </div>
-<div align="center">
+<p align="center">
   <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
-</div>
+</p>
 <br>
 
 # 🏆 Achivements
