@@ -8,8 +8,7 @@
   <strong><h2>🗿  𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 | 𝑲𝒐𝒕𝒍𝒊𝒏 𝑫𝒆𝒗 🚀</h2></strong>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
-  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Nvc3Jub3Z1Ym9ndjZ0Ym00bTNueHpzZ3VvcGR2a3lkdTltc2tyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bMLIzVtzcpM9sUd9v3/giphy.gif">
 </div>
 <br>
 
